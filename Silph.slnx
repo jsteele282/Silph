@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Silph.Console/Silph.Console.csproj" Id="894bdef9-4fdd-4859-91bc-da026e3c0cc2" />
+  <Project Path="Silph.Core/Silph.Core.csproj" Id="8a031ec0-3173-4cfe-8fa5-a9b4b36f1213" />
+  <Project Path="Silph.Data/Silph.Data.csproj" />
+  <Project Path="Silph.View/Silph.View.csproj" Id="a3207786-2ae4-436b-bb6c-40b073633edb" />
+</Solution>

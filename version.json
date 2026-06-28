@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "versionMajor": 0,
+  "versionMinor": 1,
+  "versionPatch": 0,
+  "releaseStatus": "alpha",
+  "releaseDate": null,
+  "buildNumber": null,
+  "description": "Initial development version",
+  "changelog": {
+    "0.1.0": {
+      "date": null,
+      "status": "alpha",
+      "changes": [
+        "Initial framework structure",
+        "Result pattern implementation",
+        "Message system design",
+        "Logging architecture design",
+        "Configuration management",
+        "Documentation framework"
+      ]
+    }
+  },
+  "versioning": {
+    "scheme": "Semantic Versioning 2.0.0",
+    "description": "MAJOR.MINOR.PATCH",
+    "rules": {
+      "major": "Increment for breaking changes (incompatible API changes)",
+      "minor": "Increment for new features (backwards compatible)",
+      "patch": "Increment for bug fixes (backwards compatible)"
+    },
+    "preRelease": {
+      "note": "Versions 0.x.x are considered pre-release and may have breaking changes between minor versions"
+    }
+  }
+}
