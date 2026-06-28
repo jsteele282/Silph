@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Silph.Core\Silph.Core.csproj" />
+  </ItemGroup>
+
 </Project>
