@@ -10,6 +10,24 @@ Silph provides a **common tool kit for other projects to inherit**, offering sta
 
 ---
 
+## Documentation Index
+
+### Getting Started
+- **[Console Tools Guide](CONSOLE_TOOLS.md)** - Setup tools for new Silph-based projects
+- **[Retrofitting Existing Projects](RETROFITTING_EXISTING_PROJECTS.md)** - Integrate Silph into existing codebases
+- **[Quick Reference](QUICK_REFERENCE.md)** - New vs. existing project workflow comparison
+
+### Framework Features
+- **[Version Management](VERSION_MANAGEMENT.md)** - Version tracking and changelog tools
+- **Configuration System** (see below) - Project and database configuration
+- **Result Pattern** (see below) - Operation outcome handling
+- **Message System** (see below) - Structured error and info messages
+
+### Examples
+- **[Pokedex Integration Example](../../../SILPH_INTEGRATION.md)** - Real-world retrofit example
+
+---
+
 ## Silph.Core
 
 The Core project represents fundamental functionalities for inheritance across projects.

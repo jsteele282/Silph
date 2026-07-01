@@ -22,7 +22,8 @@ namespace Silph.Core.Configurations
                     config,
                     new JsonSerializerOptions
                     {
-                        WriteIndented = true
+                        WriteIndented = true,
+                        PropertyNamingPolicy = JsonNamingPolicy.CamelCase
                     }
                 );
 
